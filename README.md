@@ -71,7 +71,7 @@
 ---
 
 ## 📫 **Contact**
-📧 Email: *add your email here*  
+📧 Email: *anandhuchangot7@gmail.com*  
 🔗 LinkedIn: https://www.linkedin.com/in/anandhu-vinod-632873331  
 
 ---
