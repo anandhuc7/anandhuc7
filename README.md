@@ -6,7 +6,7 @@
 <h1 align="center">🌟 Hey, I'm <span style="color:#00eaff;">Anandhu C</span> 👋</h1>
 
 <p align="center">
-  <strong>BSc Computer Science Student • Python Developer • Cricket Captain • KCA Umpire</strong>
+  <strong>BSc Computer Science Student • Python Developer </strong>
 </p>
 
 ---
