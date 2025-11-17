@@ -18,8 +18,8 @@
 - 💻 Currently building:  
   - 🛍️ **Shopping App – Version 1.3** (Backend coming soon)  
   - 📺 **Streaming Platform – Version 0.2** (UI prototype done)  
-- 🎮 Gamer • Unity Learner • Future Django Developer  
-- 🎤 Working on my own **Voice Assistant Project**
+- 🎮 Unity Learner • Future Django Developer  
+  
 
 ---
 
